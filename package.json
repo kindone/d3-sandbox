@@ -1,0 +1,19 @@
+{
+  "name": "d3js-sandbox",
+  "version": "1.0.0",
+  "description": "d3.js sandbox",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/live-server public",	 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "d3.js"
+  ],
+  "author": "kindone",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^4.10.2",
+    "live-server": "^1.2.0"
+  }
+}
